@@ -11,4 +11,4 @@
 
 <h2>🏆 GitHub 活动</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CG-Jue&bg_color=333333&color=ff8000&line=ff8000&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CG-Jue&bg_color=333333&color=ff8000&line=ff8000&point=ffff00&area=true&hide_border=true)
